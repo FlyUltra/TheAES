@@ -1,4 +1,4 @@
-# TheCalculator
+# TheAES
 ![badge](https://img.shields.io/github/last-commit/FlyUltra/TheAES)
 ![badge](https://img.shields.io/badge/platform-java-lightgrey)
 
